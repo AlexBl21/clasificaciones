@@ -10,7 +10,7 @@
 
 
 .contenedor{
-    background: rgba(165, 154, 154, 0.808);
+    background: rgba(236, 236, 236, 0.808);
     width: 90%;
     max-width: 1300px;
     display: flex;
@@ -22,7 +22,7 @@
 
 body{
     background:white ;
-    background: url("imagenes/space\ ivader\ 2.jpg")
+    background: url("imagenes/spaceinvader.jpg")
 }
 
 .titulo{
@@ -37,7 +37,7 @@ header{
     padding: 20px;
     max-width: 1000;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
     flex-direction: row;
     flex-wrap: wrap;
@@ -53,7 +53,7 @@ ul{
 }
 
 .menu li a{
-    background: black;
+    background: rgb(3, 185, 240);
     color: blanchedalmond;
     text-decoration: none;
     padding: 8px 12px;
@@ -99,7 +99,7 @@ header .logo img{
 }
 
 header .logo a{
-    color: rgb(1, 255, 22);
+    color: rgb(183, 1, 255);
     text-decoration: none;
     line-height: 50px;
     font-family:"arcade" ;
@@ -178,7 +178,7 @@ footer .links a{
 }
 
 footer .links a:hover{
-    background: rgb(132, 3, 158);
+    background: rgb(228, 13, 228);
     border-radius: 5px;
 }
 
